@@ -42,3 +42,47 @@ c:\users\andy.chen\documents\visual studio 2013\Projects\winform_Calendar\winfor
 c:\users\andy.chen\documents\visual studio 2013\Projects\winform_Calendar\winform_Calendar\obj\Debug\winform_Calendar.exe
 c:\users\andy.chen\documents\visual studio 2013\Projects\winform_Calendar\winform_Calendar\obj\Debug\winform_Calendar.pdb
 c:\users\andy.chen\documents\visual studio 2013\Projects\winform_Calendar\winform_Calendar\obj\Debug\winform_Calendar.Form1.resources
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\winform_Calendar.exe.config
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\obj\Debug\winform_Calendar.exe
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\obj\Debug\winform_Calendar.pdb
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\winform_Calendar.exe
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\winform_Calendar.pdb
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Google.Apis.Auth.dll
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Google.Apis.Core.dll
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Google.Apis.dll
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\log4net.dll
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Zlib.Portable.dll
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Google.Apis.pdb
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Google.Apis.xml
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Google.Apis.Auth.xml
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Google.Apis.Core.pdb
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Google.Apis.Core.xml
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\log4net.xml
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\bin\Debug\Zlib.Portable.xml
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\obj\Debug\winform_Calendar.csproj.App.config
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\obj\Debug\winform_Calendar.csprojResolveAssemblyReference.cache
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\obj\Debug\winform_Calendar.Form1.resources
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\obj\Debug\winform_Calendar.Properties.Resources.resources
+C:\Users\OI\Documents\git\google_Calendar_api_v3\winform_Calendar\obj\Debug\winform_Calendar.csproj.GenerateResource.Cache
